@@ -1,0 +1,305 @@
+
+
+@media (max-width:400px)  {
+
+    @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100&display=swap');
+
+    @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@200;300&display=swap');
+
+
+    body{
+        
+        font-family:'Work Sans', 'sans-serif';
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        overflow: auto;
+        width: 1170px;
+        
+        
+        
+       
+        
+        
+
+    }
+
+    html{
+        width: 1600px;
+        
+        
+
+    }
+
+    
+
+    .logo img{
+        width: 1500px;
+        float: center;
+        margin-left: 45px;
+        margin-top: 100px;
+        
+        
+        
+
+
+        
+
+    }
+
+    .navegacao a{
+        font-size: 60px;
+        text-align: center;
+        margin-top: 150px;
+        padding: 25px;
+        font-weight: 200;
+        margin-bottom: 100px;
+        
+    }
+
+    .camille{
+        font-size: 85px;
+        font-weight: 300;
+        padding: 55px;
+        border-bottom: 1px solid black;
+        margin-top: 500px;
+        
+        }
+
+    
+    .clinica{
+        font-size: 180px;
+        font-weight: 200;
+        letter-spacing: -10px;
+        margin-top: 50px;
+        
+    }
+
+    .gaia{
+        font-size: 70px;
+        font-weight: 200;
+        letter-spacing: -3px;
+        padding: 10px;
+    }
+
+    .redestop img{
+        width: 70px;
+        padding: 3px;
+        
+    }
+
+    .consulta img{
+        width:1200px;
+        margin-left: 200px;
+        
+        
+        
+    }
+
+    .consulta{
+        width: 1550px;
+    }
+
+    .segundobloco {
+        font-size: 40px;
+        font-weight: 200;
+        letter-spacing: 5px;
+        margin-top: 40px;
+       
+
+    }
+
+
+    .segundobloco p{
+        font-weight: 200;
+        font-size: 70px;
+        text-align: justify;
+        
+        
+        
+    }
+
+    .segundobloco h1{
+        font-size: 120px;
+        font-weight: 200;
+        letter-spacing: -5px;
+        margin-top: 50px;
+        
+    
+
+    }
+
+    .container{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        
+    }
+
+    .card{
+        width: 1000px;
+        height: 850px;
+        margin-top: 80px;
+    }
+
+    .card-image{
+        width:1000px ;
+        height: 600px;
+    }
+
+    .card h2{
+        font-size: 60px;
+        font-weight: 300;
+        letter-spacing: 10px;
+
+    }
+
+    .card a{
+        padding: 20px;
+        width: 380px;
+        font-size: 50px;
+        font-weight: 300;
+        margin: auto;
+        margin-top: 20px;
+        border-radius: 10px;
+        box-shadow: -1px 4px 20px rgba(0, 0, 0, 0.542);
+    }
+    
+
+    .apresentacao h1{
+        font-weight: 100px;
+        font-size: 136px;
+        border-bottom: 1px solid black;
+        
+
+        
+
+        
+    }
+
+    .apresentacao h2{
+        font-size: 90px;
+        margin-left: 400px;
+        
+        
+        
+    }
+
+    .apresentacao img{
+
+        width: 1400px;
+        position:relative;
+        left: ;
+        right: auto;
+        
+        
+        
+        
+        
+    }
+
+    .lista li{
+        font-size: 60px;
+        margin-left:-200px;
+        
+        
+        
+    }
+
+    .lista{
+        margin-top: 1600px;
+        
+    }
+
+    .poesia{
+        font-size: 60px;
+       
+        
+        
+
+
+    }
+
+    .poesia p{
+        width: auto;
+        margin: 50px 50px 100px 30px;
+
+        
+    }
+
+    .feedback h1{
+        font-size: 136px;
+        margin-left: -160px;
+        text-align:center;
+       
+        
+    }
+    .feedback img{
+        width: 1400px;
+        height: 1000px;
+        margin-left: -310px;
+        margin-right: 100px;
+        
+
+    }
+
+    .contato section{
+        font-size: 136px;
+        border-bottom: 1px solid black;
+
+    }
+
+   
+    .contato p{
+        font-size: 60px;
+        text-align: left;
+        margin: auto;
+    }
+    
+    .endereco img{
+        width: 70px;
+        margin-left: 40px;
+    }
+
+    .telefone img{
+        width: 70px;
+        margin-left: 40px;
+    }
+    
+    .email img{
+        width: 70px;
+        margin-left: 40px;
+    }
+
+    .insta img{
+        width: 70px;
+        margin-left: 40px;
+    }
+
+    .mapa iframe{
+        width: 100%;
+        
+    }
+
+    .mapa img{
+        display:none;
+    }
+
+    .footer{
+        padding: 80px;
+        
+    }
+
+    .footer img{
+        width: 800px;
+    }
+
+    .gabi{
+        padding: 50px;
+        font-size: 60px;
+        
+    }
+
+
+
+}
